@@ -29,7 +29,7 @@ def getResetBG():
     lastReset = time.time()
 
 #Get a mask representing what's changed in the frame
-def processDifference(frame, warningThreshold = 35000, wantMask=True):
+def processDifference(frame, warningThreshold = 150, wantMask=True):
     global timeOfLastFlash, timeOfLastSound
     global showBanner
 

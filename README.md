@@ -23,5 +23,5 @@ There are a few basic controls for `MotionChecker.py`:
 Every now and then, you may want to hide the camera feed window.  Toggling window visibility is down with the BACK button.  Push once to hide the window, and another time to show the window.
 
 Alt-H2 Sources
-Camera: [https://www.amazon.com/Network-Infrared-Wireless-Camera-Detection/dp/B01E8QITFY/ref=sr_1_10?ie=UTF8&qid=1468330513]
-Alert Sound Effect: [http://soundbible.com/1599-Store-Door-Chime.html]
+ - Camera: [https://www.amazon.com/Network-Infrared-Wireless-Camera-Detection/dp/B01E8QITFY/ref=sr_1_10?ie=UTF8&qid=1468330513]
+ - Alert Sound Effect: [http://soundbible.com/1599-Store-Door-Chime.html]

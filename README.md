@@ -1,5 +1,5 @@
 # IP Camera Controller
-A program that can be used to interface with a Kaicong IP Camera, allowing the user to watch the feed, operate the camera, and check for motion.  I wrote this program to enable me to watch for deliveries from the comfort of my bed.  As such, it is equipped with a number of features of questionable necessity.
+A program that can be used to interface with a Kaicong IP Camera, allowing the user to watch the feed, operate the camera, and check for motion.  I wrote this program to enable me to watch for deliveries from the comfort of another room.  As such, it is equipped with a number of features of questionable necessity but undeniable 'fun-ness'.
 
 ## Quick Start
 ### How to use this program

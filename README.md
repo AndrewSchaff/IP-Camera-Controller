@@ -36,7 +36,7 @@ The program uses the same control system as the camera's web interface, giving y
 This program also uses `OpenCV`'s background subtractor to provide a motion alarm.  When a significant change is detected in the frame, a red banner with the words 'Movement Detected' will flash at the top of the screen while an audible tone is played.  This works based on a 'difference score': after the background subtractor mask is created, the number of white pixels counted.  More white pixels = more change.  This feature is still a little sensitive to small movements, so try to avoid pointing the camera at trees if you can.
 
 There are a few basic controls for `MotionChecker.py`:
- - Left Shoulder Button: Hold this to show the motion masl (B/W image of all motion in frame)
+ - Left Shoulder Button: Hold this to show the motion mask (B/W image of all motion in frame)
  - Left Trigger Button: Reset background subtractor/silence alarms
 
 ## Program features

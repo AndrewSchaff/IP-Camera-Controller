@@ -9,7 +9,7 @@ import GamepadInterface as GP
 import MotionChecker
 
 #Camera details (IP address and login details)
-ip_address = "192.168.1.113" #IP Address of the Camera
+ip_address = "### Insert Camera IP Here ###" #IP Address of the Camera
 username = "admin"
 password = ""
 
